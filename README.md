@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/AdamDCollins7/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/AdamDCollins7/post-install-config)
   - [osTicket: Ticket SLA's Established](https://github.com/AdamDCollins7/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure(Coming Soon)</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/AdamDCollins7/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AdamDCollins7/azure-network-protocols)
 - <b>Virtual Private Network(Proton)</b>
