@@ -10,8 +10,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/AdamDCollins7/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AdamDCollins7/azure-network-protocols)
 - <b>Virtual Private Network(Proton)</b>
-  - [Create Virtual Machine in Azure)
-  - [Sign up for ProtonVPN and test the VPN connection)
+  - [Create Virtual Machine in Azure](https://github.com/AdamDCollins7/configure-ad)
+  - [Sign up for ProtonVPN and test the VPN connection](https://github.com/AdamDCollins7/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
