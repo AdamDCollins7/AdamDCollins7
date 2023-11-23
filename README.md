@@ -1,5 +1,5 @@
 <h1>Hi, I'm Adam, an <a href="https://linkedin.com/in/adam-collins7">IT Professional</a>☺</h1>
-  <img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdigital-city&psig=AOvVaw2WWTt8-Znxpb17KCa15WdP&ust=1700832514244000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODVhICd2oIDFQAAAAAdAAAAABAE">
+  <img src ="https://cdn.pixabay.com/photo/2023/10/19/23/42/ai-generated-8327858_1280.jpg">
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
