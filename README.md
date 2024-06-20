@@ -1,5 +1,4 @@
 <h1>Hi, I'm Adam, an <a href="https://linkedin.com/in/adam-collins7">IT Professional</a>☺
-  <img src ="https://cdn.pixabay.com/photo/2023/10/19/19/55/ai-generated-8327542_1280.jpg">
 </h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
